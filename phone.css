@@ -1,0 +1,25 @@
+#navbar
+{
+    flex-direction: column;
+}
+#navbar ul li a
+{
+    font-size:1rem;
+    padding:0px 0px;
+    
+}
+#services
+{
+   flex-direction: column;
+    height: 1044px;
+}
+
+#manufacture
+{
+    overflow: hidden;
+}
+
+#men img{
+    height: 304px;
+    width:304px;
+}
